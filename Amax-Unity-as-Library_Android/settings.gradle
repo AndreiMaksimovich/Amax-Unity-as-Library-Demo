@@ -1,0 +1,25 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+
+include ':unityLibrary'
+project(':unityLibrary').projectDir = new File('..\\Amax-ARFoundation-Demo_AndroidLibrary\\unityLibrary')
+
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        flatDir {
+            dirs "${project(':unityLibrary').projectDir}/libs"
+        }
+    }
+}
+rootProject.name = "Amax-Unity-as-Library_Android"
+include ':app'
+
+

@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">Unity Library in Native Android Application</string>
+
+    <string name="unity_fullscreen_activity_label">Unity as Fullscreen Activity</string>
+    <string name="unity_as_dialog_activity_label">Unity as Dialog Activity</string>
+    <string name="unity_as_view_activity_label">Unity as Embedded View</string>
+
+    <string name="main_menu_fragment_label">Main Menu</string>
+    <string name="simple_fragment_label">Second Fragment</string>
+
+    <string name="button_label_open_simple_fragment">Simple Fragment</string>
+
+    <string name="button_label_open_unity_fullscreen">Unity Fullscreen</string>
+    <string name="button_label_open_unity_as_dialog">Unity as Dialog</string>
+    <string name="button_label_open_unity_as_view_ar_face_recognition">Unity as View: AR Face</string>
+    <string name="button_label_open_unity_as_view_ar_objects">Unity as View: AR Objects</string>
+
+    <string name="button_label_previous">Previous</string>
+    <string name="button_label_close">Close</string>
+
+    <string name="game_view_content_description">Unity as Library</string>
+
+</resources>
