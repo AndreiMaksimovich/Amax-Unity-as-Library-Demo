@@ -12,5 +12,7 @@ Amax-Unity-as-Library-Demo - an example of using Unity as a library built into n
 Due to file size limitations some folders with unity binaries have been added to .gitignore. You will need to re-export Amax-Unity-as-Library-Demo into Amax-ARFoundation-Demo_AndroidLibrary and Amax-Unity-as-Library_iOS/UnityLib
 
 ### Android
+https://user-images.githubusercontent.com/60512133/174812015-8e3e6a0e-8b86-4048-8f92-9b7dd6941458.mp4
 
 ### iOS
+https://user-images.githubusercontent.com/60512133/174812079-174638cb-0e53-41bf-afe1-87a65f139590.mp4
